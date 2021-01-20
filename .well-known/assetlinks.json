@@ -4,8 +4,8 @@
     "namespace": "android_app",
     "package_name": "com.gogoro.network",
     "sha256_cert_fingerprints":
-    ["BA:26:57:5A:6B:5E:D1:D0:B1:BB:14:38:81:95:B8:3F:22:8A:3E:A9:A4:1C:E2:B3:1C:AC:AB:1A:1D:1C:1A:D5"],
-    ["80:CD:D2:0F:AF:C9:01:2A:88:28:47:7E:C0:B2:55:55:DF:8A:0E:3C:77:01:B2:D0:94:26:9F:EB:01:2B:E1:EC"]
+    ["BA:26:57:5A:6B:5E:D1:D0:B1:BB:14:38:81:95:B8:3F:22:8A:3E:A9:A4:1C:E2:B3:1C:AC:AB:1A:1D:1C:1A:D5",
+     "80:CD:D2:0F:AF:C9:01:2A:88:28:47:7E:C0:B2:55:55:DF:8A:0E:3C:77:01:B2:D0:94:26:9F:EB:01:2B:E1:EC"]
   }
 },
 {
