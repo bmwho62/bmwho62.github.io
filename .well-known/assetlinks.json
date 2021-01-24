@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "tw.hu.leon.goroassistant",
+    "sha256_cert_fingerprints":
+    ["41:3F:00:B4:A1:E6:62:7A:CA:31:54:40:79:88:5E:3B:02:18:48:04:A8:08:28:F7:DC:F9:68:22:B2:AF:9A:BE",
+    "2C:9F:5A:26:54:F4:68:94:11:3B:76:91:1B:BC:3B:8A:4C:A3:0B:0A:2F:F5:AD:F3:99:D5:34:8D:93:2C:5E:AA"]
+  }
+}]
